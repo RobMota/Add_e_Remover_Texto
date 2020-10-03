@@ -1,4 +1,7 @@
 # Projeto: Adicionar ou remover caracter
+
+![](./Home.png)
+
 Adicionar ou remover caracteres na tela usando Javascript
 
 ### Utilidade:

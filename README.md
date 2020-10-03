@@ -14,7 +14,7 @@ Adicionar ou remover caracteres na tela usando Javascript
 
 #### Modo de uso:
 * Abra um terminal ( cmd/propt de comando )
-* Clone o repositório ( git clone git@github.com:RobMota/RobMota/Add_e_Remover_Texto.git ) em algum local de preferência
-* Acesse a pasta ( cd Add_e_Remover_Texto )
-* E abra a o arquivo index.html ( Ex: index.html firefox )
+* Clone o repositório ( git clone git@github.com:RobMota/add-and-remove-text-in-js-vanilla.git ) em algum local de preferência
+* Acesse a pasta ( cd add-and-remove-text-in-js-vanilla )
+* E abra a o arquivo index.html ( Ex: index.html ) em um navegador de sua preferência ( chrome, firefox ).
 
